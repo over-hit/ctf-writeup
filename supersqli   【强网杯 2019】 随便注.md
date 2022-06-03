@@ -4,6 +4,7 @@
 
 ![image-20220602220016590](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20220602220016590.png)
 
+https://github.com/over-hit/ctf-writeup/blob/f268b9fcdc5a7cb23fc25cf92085e22b5711e47f/%E5%9B%BE%E5%83%8F/image-20220602215342959.png
 上来不多说直接测试，这里直接报错
 
 ```sql
