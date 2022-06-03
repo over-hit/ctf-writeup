@@ -2,7 +2,7 @@
 
 
 
-![image-20220602220016590](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20220602220016590.png)
+![image-20220602220016590](image-20220602220016590.png)
 
 上来不多说直接测试，这里直接报错
 
@@ -12,7 +12,7 @@
 
 
 
-![image-20220602220205878](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20220602220205878.png)
+![image-20220602220205878](image-20220602220205878.png)
 
 ![image-20220602220247668](C:\Users\86185\AppData\Roaming\Typora\typora-user-images\image-20220602220247668.png)
 
@@ -233,4 +233,5 @@ alter table `words` change `flag`
 ![image-20220603113207316](image-20220603113207316.png)
 
 最后要用万能密码查询
+
 
